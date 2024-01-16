@@ -9,6 +9,7 @@
 #include <math.h>
 #include <string.h>
 #include <stdarg.h>
+ #include <bits/stdc++. h>
 
 #define WINDOW_WIDTH  800
 #define WINDOW_HEIGHT 500
